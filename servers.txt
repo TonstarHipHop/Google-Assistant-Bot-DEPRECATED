@@ -1,0 +1,2 @@
+ubuntu: 45.76.62.139
+ssh root@ip
